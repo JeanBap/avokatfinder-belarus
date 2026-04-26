@@ -1,29 +1,5 @@
-# belarus.avokatfinder.com — llms.txt
-# Lawyers and notaries in Belarus
+# AvökatFinder Belarus
+> English-speaking law firm directory for Belarus
 
-## Pages
-url: https://belarus.avokatfinder.com/
-url: https://belarus.avokatfinder.com/blog/employment-law-guide-expats-belarus/
-url: https://belarus.avokatfinder.com/blog/guide-to-lawyers-in-belarus/
-url: https://belarus.avokatfinder.com/blog/immigration-law-guide-expats-belarus/
-url: https://belarus.avokatfinder.com/blog/real-estate-law-guide-expats-belarus/
-url: https://belarus.avokatfinder.com/blog/lawyers-notaries-guide/
-url: https://belarus.avokatfinder.com/practice-areas/banking-finance/
-url: https://belarus.avokatfinder.com/practice-areas/corporate-ma/
-url: https://belarus.avokatfinder.com/practice-areas/criminal-law/
-url: https://belarus.avokatfinder.com/practice-areas/data-protection/
-url: https://belarus.avokatfinder.com/practice-areas/dispute-resolution/
-url: https://belarus.avokatfinder.com/practice-areas/employment/
-url: https://belarus.avokatfinder.com/practice-areas/family-law/
-url: https://belarus.avokatfinder.com/practice-areas/golden-visa/
-url: https://belarus.avokatfinder.com/practice-areas/immigration/
-url: https://belarus.avokatfinder.com/practice-areas/intellectual-property/
-url: https://belarus.avokatfinder.com/practice-areas/real-estate/
-url: https://belarus.avokatfinder.com/practice-areas/tax/
-url: https://belarus.avokatfinder.com/cities/minsk/
-url: https://belarus.avokatfinder.com/cities/gomel/
-url: https://belarus.avokatfinder.com/cities/mogilev/
-url: https://belarus.avokatfinder.com/cities/vitebsk/
-url: https://belarus.avokatfinder.com/cities/grodno/
-url: https://belarus.avokatfinder.com/cities/brest/
-url: https://belarus.avokatfinder.com/cities/baranavicy/
+Directory: https://belarus.avokatfinder.com
+Email: info@avokatfinder.com
