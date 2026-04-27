@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://belarus.avokatfinder.com/sitemap.xml
