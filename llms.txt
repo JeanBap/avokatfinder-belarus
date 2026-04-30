@@ -1,5 +1,31 @@
 # AvökatFinder Belarus
-> English-speaking law firm directory for Belarus
+> The English-language directory of lawyers and law firms in Belarus for expats, foreign nationals and international businesses.
 
-Directory: https://belarus.avokatfinder.com
-Email: info@avokatfinder.com
+## Main Pages
+- https://belarus.avokatfinder.com/: Home — find an English-speaking lawyer in Belarus
+- https://belarus.avokatfinder.com/lawyers/: Directory of verified law firms and lawyers in Belarus
+- https://belarus.avokatfinder.com/glossary/: Legal glossary — plain-English definitions of Belarus legal terms
+- https://belarus.avokatfinder.com/blog/: Expat legal guides and property law articles for Belarus
+- https://belarus.avokatfinder.com/about/: About AvökatFinder Belarus
+- https://belarus.avokatfinder.com/contact/: Contact us
+
+## Legal Glossary Terms
+- https://belarus.avokatfinder.com/glossary/administrative-procedure/
+- https://belarus.avokatfinder.com/glossary/business-contract/
+- https://belarus.avokatfinder.com/glossary/dogovor-arendi/
+- https://belarus.avokatfinder.com/glossary/dogovor-kupli-prodazhi/
+- https://belarus.avokatfinder.com/glossary/family-law/
+- https://belarus.avokatfinder.com/glossary/ipoteka-belarus/
+- https://belarus.avokatfinder.com/glossary/notarius-belarus/
+- https://belarus.avokatfinder.com/glossary/regestr-nedvizhimosti/
+
+## Site Info
+- Language: English
+- Audience: Expats, foreign nationals, international property buyers and businesses in Belarus
+- Content: Law firm directory, legal glossary, expat legal guides
+- Last updated: 2026-04-30
+- Sitemap: https://belarus.avokatfinder.com/sitemap.xml
+
+## Permissions
+User-agent: *
+Allow: /
